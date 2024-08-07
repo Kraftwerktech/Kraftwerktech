@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+There+👋;+Kraftwerk+Technologies+Limited;" />
 </h1>
 <p align="left"> <img src="Blue & White Modern Business Facebook Cover.png" alt="ibrahim23dev" /> </p>
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Innovating the Future of Software Development</h3>
 
 <br/>
 
