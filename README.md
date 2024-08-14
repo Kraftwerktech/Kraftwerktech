@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Welcome+There+👋;+Kraftwerk+Technologies+Limited;" />
 </h1>
-<p align="left"> <img src="Blue & White Modern Business Facebook Cover.png" alt="ibrahim23dev" /> </p>
+<p align="left"> <img src="github banner.png" alt="ibrahim23dev" /> </p>
 <h3 align="center">Innovating the Future of Software Development</h3>
 
 <br/>
